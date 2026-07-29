@@ -8,7 +8,7 @@ Vercel公開用の静的ホームページです。
 npm run dev
 ```
 
-ブラウザで `http://localhost:3000` を開きます。
+ブラウザで `http://localhost:3000` を開きます
 
 ## Vercel公開
 
