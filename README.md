@@ -1,6 +1,6 @@
 # Liyd BPO Homepage
 
-Vercel公開用の静的ホームページです。
+Vercel公開用の静的ホームページです
 
 ## ローカル確認
 
